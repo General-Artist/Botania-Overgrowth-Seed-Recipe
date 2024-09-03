@@ -1,0 +1,38 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "111",
+      "121",
+      "343"
+    ],
+    "key": {
+      "1": {
+        "item": "botania:terrasteel_nugget"
+      },
+      "2": [
+        {
+          "item": "minecraft:pumpkin_seeds"
+        },
+        {
+          "item": "minecraft:beetroot_seeds"
+        },
+        {
+          "item": "minecraft:wheat_seeds"
+        },
+        {
+          "item": "minecraft:melon_seeds"
+        }
+      ],
+      "3": {
+        "item": "botania:rune_earth"
+      },
+      "4": {
+        "item": "botania:life_essence"
+      }
+    },
+    "result": {
+      "item": "botania:overgrowth_seed",
+      "count": 1
+    }
+  }
+  
